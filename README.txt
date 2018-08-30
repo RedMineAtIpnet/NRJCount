@@ -15,7 +15,7 @@ STPM3x is equipped with
 This feature is especially usefull in industrial settings where the 3-phase system is used.
 Each couple has 2 entries, one for the phase, another for the neutral (ex: VIN1: Voltage Input Neutral on phase 1, VIP1: Voltage Input Phase on phase ).
 
-These inputs on the stpm34 range from -0.3V to 0.3V. Thus, a shunt resistance and a voltage divider according to the joined diagram.
+These inputs on the stpm34 range from -0.3V to 0.3V. Thus, the use of a shunt resistance and a voltage divider according to the joined diagram.
 
 Digital pins have a 3.3 voltage input/output thus the associated microcontroller should have a 3.3V input/output.
 
