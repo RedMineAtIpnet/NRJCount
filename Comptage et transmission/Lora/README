@@ -1,0 +1,5 @@
+Description 
+
+Ce dossier contient une description et les codes necessaires pour construire un device de comptage de fréquence 
+( qui représente la consommation moyenne de puissance) et une gateway à l'aide d'une carte raspberry tout en se basant 
+la thechnologie Lora pour transmettre les données entre les deux composant .
