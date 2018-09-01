@@ -1,5 +1,5 @@
 Descrption 
 
-ce répertoire contient la description et la La description et les codes necssairespour construire
+ce répertoire contient la description et les codes necssaires pour construire
 un device de comptage de fréquence et soit la reception avec une gateway raspberry ou une autre 
 carte arduino en se basant sur la technologie CC1101 pour le transfert des données 
